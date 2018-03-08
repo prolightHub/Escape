@@ -1,3 +1,3 @@
 # Escape
 Check it out!
-https://github.com/prolightHub/Escape/blob/master/Escape/index.html
+http://htmlpreview.github.io/?https://github.com/prolightHub/Escape/blob/master/Escape/index.html
